@@ -1,4 +1,4 @@
-This project is the first module in my MES (Manufacturing Execution System) mini-project portfolio. It demonstrates how core MES features can be simulated using Python, Streamlit, and SQLite.
+This project demonstrates how core MES features can be simulated using Python, Streamlit, and SQLite.
 
 Project Overview:
 The Production Order Tracking app allows you to:
