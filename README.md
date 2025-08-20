@@ -13,7 +13,7 @@ Visualize real-time WIP (Work in Progress) with interactive charts
 
 This is a simplified MES-like system that shows how manufacturing operations can be digitized at the shop-floor level.
 
-Tech Stack
+Tech Stack:
 
 Python — backend logic
 
@@ -23,7 +23,7 @@ SQLite — database storage
 
 Plotly — visualizations
 
-Features Demo
+Features Demo:
 
 Add new orders with product name and quantity
 
@@ -33,7 +33,7 @@ Update the status as the order moves through the lifecycle
 
 View WIP status in a real-time bar chart
 
-How to Run Locally
+How to Run Locally:
 # Clone the repo (or download as ZIP)
 git clone https://github.com/SrineeshKonda89/MES-Mini-Portfolio.git
 cd MES-Mini-Portfolio
